@@ -1,0 +1,6 @@
+{
+  "name": "ChessPlus",
+  "description": "Modern, high-performance chess platform with sleek dark minimalist aesthetic, 3D chrome and obsidian pieces, dynamic Web Audio sound design, intelligent AI bot, and online friend multiplayer with real-time voice and video call.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
